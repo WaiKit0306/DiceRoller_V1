@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="rollName">Roll</string>
+    <string name="countButton">"Count "</string>
+</resources>
